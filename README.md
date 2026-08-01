@@ -13,7 +13,7 @@ This repository contains the programs and projects I build while learning C++. I
 
 ## Technologies
 - Language: C++
-- IDE: (Write the IDE you use, e.g., Visual Studio Code, Code::Blocks, Dev-C++, etc.)
+- IDE: Visual Studio Code
 
 ## Author
 Sreeram Charan
