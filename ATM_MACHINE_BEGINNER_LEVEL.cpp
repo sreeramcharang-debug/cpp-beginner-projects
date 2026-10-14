@@ -2,7 +2,7 @@
 using namespace std;
 
 int pin_code = 1234;
-int balance = 10000;
+int balance = 0;
 int attempts = 3;
 
 void deposit(int amount) {
